@@ -16,6 +16,7 @@
 
 ## Translations:
 
+* [Indonesian](translations/README-ind.md)
 * [English](README.md)
 * [Español](translations/README-es.md)
 * [Français](translations/README-fr.md)
